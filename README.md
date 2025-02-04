@@ -4,7 +4,7 @@ Convolutional Neural Network for automated shape acquisition
 
 ## **Authors**:
 
-[Francisco Miranda Vázquez](https://github.com/MVFran)  
+[Francisco Miranda-Vázquez](https://github.com/MVFran)  
 email:
 <a href="mailto:francisco55555mv@ciencias.unam.mx" class="email">francisco55555mv@ciencias.unam.mx</a>
 
