@@ -1,6 +1,13 @@
+<br><img src = "/images/Logo.png" align = "left" width = "150" >
+<br><br><br><br>
 
-Convolutional Neural Network for automated shape acquisition
+# **ShapeRed**
 
+<br>
+
+This program focuses on the automatic acquisition of shapes using Convolutional Neural Networks, which are a deep learning model.  
+
+The program is developed in Python, using TensorFlow as the main library, which is specialized in the development of machine learning models.
 
 ## **Authors**:
 
