@@ -7,7 +7,7 @@
 
 This program focuses on the automatic acquisition of shapes using Convolutional Neural Networks, which are a deep learning model.  
 
-The program is developed in Python, using TensorFlow as the main library, which is specialized in the development of machine learning models.
+The program is developed in [**Python**](https://www.python.org/), using [**TensorFlow**](https://www.tensorflow.org/?hl=es-419) as the main library, which is specialized in the development of machine learning models.
 
 ## **Authors**:
 
