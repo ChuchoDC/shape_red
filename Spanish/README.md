@@ -5,10 +5,11 @@
 
 <br>
 
-Este programa está enfocado en la adquisición automática de formas utilizando Redes Neuronales Convolucionales, las cuales son un modelo de aprendizaje profundo.
+Este programa está enfocado en la adquisición automática de formas utilizando Redes Neuronales Convolucionales, las cuales son un modelo de aprendizaje profundo útil en el manejo de imágenes.
 
 El programa está desarrollado en [**Python**](https://www.python.org/) usando como libreria principal [**TensorFlow**](https://www.tensorflow.org/?hl=es-419) la cual está enfocada en el desarrollo de modelos de aprendizaje automático.
 
+Para ejecutar adecuadamente el programa, es recomendable utilizar las versiones que se muestran en [**requierements.txt**]("\requierements.txt")
 
 ## **Autores**:
 
