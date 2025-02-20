@@ -9,7 +9,7 @@ Este programa está enfocado en la adquisición automática de formas utilizando
 
 El programa está desarrollado en [**Python**](https://www.python.org/) usando como libreria principal [**TensorFlow**](https://www.tensorflow.org/?hl=es-419) la cual está enfocada en el desarrollo de modelos de aprendizaje automático.
 
-Para ejecutar adecuadamente el programa, es recomendable utilizar las versiones que se muestran en [**requierements.txt**]("\requierements.txt")
+Para ejecutar adecuadamente el programa, es recomendable utilizar las versiones que se muestran en [**requierements.txt**](\requierements.txt)
 
 ## **Autores**:
 
