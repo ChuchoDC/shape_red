@@ -71,9 +71,9 @@ def modelo(input_shape, num_landmarks):
 
 img_size = (224, 224)
 input_shape = (img_size[0], img_size[1], 3)
-num_landmarks =           # Colocar el número de landmarks con los que se cuenta
+num_landmarks = 0          # Colocar el número de landmarks con los que se cuenta
 
-modelo = modeloPropuesto00(input_shape, num_landmarks)
+modelo = modelo(input_shape, num_landmarks)
 modelo.compile(optimizer = Nadam(learning_rate=0.0005), loss="mae")
 
 reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.5, patience=7, min_lr=1e-7)
