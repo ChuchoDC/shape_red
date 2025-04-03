@@ -1,8 +1,8 @@
 ''' 
-This functión transform the CSV files into TPS files
+This function transform the CSV files into TPS files
 '''
 
-def csv2tps(csvfile, tpsfile, fname = ''):
+def csv2tps(csvfile, tpsfile):
     import pandas as pd
     import numpy as np
     archivo = pd.read_csv(f"{csvfile}")
@@ -39,3 +39,6 @@ def csv2tps(csvfile, tpsfile, fname = ''):
             file.write(f"IMAGE={id}\n")
             file.write(f"ID={contador}\n")
             contador += 1
+    
+# Example:
+# csv2tps('InputFile.tps', 'OutputFile.csv')
