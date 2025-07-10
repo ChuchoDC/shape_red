@@ -6,7 +6,8 @@ Primero, es necesario encontrar donde se encuentra almacenado el programa [**Sha
 
 ![Manual00](/images/Manual00.PNG)
 
-Una vez hecho esto, se va a abrir una nueva ventana donde vamos a poder visualizar el programa en google colab, una vez hecho esto, es necesario crear una copia localmente (en nuestra cuenta de drive) en nuestra cuenta para guardar tanto el programa como los cambios realizados.
+Una vez hecho esto, se va a abrir una nueva ventana donde vamos a poder visualizar el programa en google colab, una vez hecho esto, es necesario crear una copia localmente (en nuestra cuenta de drive) en nuestra cuenta para guardar tanto el programa como los cambios realizados. Además, es necesario ejecutar la siguiente celda para que se pueda realizar la conexión con los archivos de drive.
 
 ![Manual01](/images/Manual01.PNG)
+
 
